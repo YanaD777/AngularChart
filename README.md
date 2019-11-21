@@ -1,2 +1,0 @@
-# AngularChart
-TrainingApp
